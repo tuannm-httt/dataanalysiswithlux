@@ -1,3 +1,5 @@
+conda install -c conda-forge lux-api
+
 jupyter nbextension install --py --user luxwidget
 jupyter nbextension enable --py --user luxwidget
 
